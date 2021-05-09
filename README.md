@@ -19,7 +19,7 @@ You can also hear recordings from your boards using the speak button.
 ![](https://github.com/BolotZhusupekov07/To-Do-App/blob/master/Screens/Screenshot_5.png)
 
 ## Figma
-![](https://www.figma.com/file/SacIuNxtxm69wrNsD17YUM/PL-PROJECT?node-id=0%3A1)
+https://www.figma.com/file/SacIuNxtxm69wrNsD17YUM/PL-PROJECT?node-id=0%3A1
 
 
 ## Libraries
