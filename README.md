@@ -21,6 +21,9 @@ You can also hear recordings from your boards using the speak button.
 ## Figma
 https://www.figma.com/file/SacIuNxtxm69wrNsD17YUM/PL-PROJECT?node-id=0%3A1
 
+## Trello
+
+![](https://github.com/BolotZhusupekov07/To-Do-App/blob/master/Screens/image.png)
 
 ## Libraries
 1. [Pyqt5](https://pypi.org/project/PyQt5/)
